@@ -1,0 +1,30 @@
+P:\form6mois\Laboratoire Mobile\API\ToolBox\bin\Debug\ToolBox.dll.config
+P:\form6mois\Laboratoire Mobile\API\ToolBox\bin\Debug\ToolBox.dll
+P:\form6mois\Laboratoire Mobile\API\ToolBox\bin\Debug\ToolBox.pdb
+P:\form6mois\Laboratoire Mobile\API\ToolBox\bin\Debug\Newtonsoft.Json.dll
+P:\form6mois\Laboratoire Mobile\API\ToolBox\bin\Debug\System.Net.Http.Formatting.dll
+P:\form6mois\Laboratoire Mobile\API\ToolBox\bin\Debug\System.Web.Http.dll
+P:\form6mois\Laboratoire Mobile\API\ToolBox\bin\Debug\Newtonsoft.Json.xml
+P:\form6mois\Laboratoire Mobile\API\ToolBox\bin\Debug\System.Net.Http.Formatting.xml
+P:\form6mois\Laboratoire Mobile\API\ToolBox\bin\Debug\System.Web.Http.xml
+P:\form6mois\Laboratoire Mobile\API\ToolBox\bin\Debug\fr\System.Web.Http.resources.dll
+P:\form6mois\Laboratoire Mobile\API\ToolBox\obj\Debug\ToolBox.csprojAssemblyReference.cache
+P:\form6mois\Laboratoire Mobile\API\ToolBox\obj\Debug\ToolBox.csproj.CoreCompileInputs.cache
+P:\form6mois\Laboratoire Mobile\API\ToolBox\obj\Debug\ToolBox.csproj.CopyComplete
+P:\form6mois\Laboratoire Mobile\API\ToolBox\obj\Debug\ToolBox.dll
+P:\form6mois\Laboratoire Mobile\API\ToolBox\obj\Debug\ToolBox.pdb
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Debug\ToolBox.dll.config
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Debug\ToolBox.dll
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Debug\ToolBox.pdb
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Debug\Newtonsoft.Json.dll
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Debug\System.Net.Http.Formatting.dll
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Debug\System.Web.Http.dll
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Debug\Newtonsoft.Json.xml
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Debug\System.Net.Http.Formatting.xml
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Debug\System.Web.Http.xml
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Debug\fr\System.Net.Http.Formatting.resources.dll
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Debug\fr\System.Web.Http.resources.dll
+D:\workspace\asp.net\API_CashMachine\ToolBox\obj\Debug\ToolBox.csprojAssemblyReference.cache
+D:\workspace\asp.net\API_CashMachine\ToolBox\obj\Debug\ToolBox.csproj.CopyComplete
+D:\workspace\asp.net\API_CashMachine\ToolBox\obj\Debug\ToolBox.dll
+D:\workspace\asp.net\API_CashMachine\ToolBox\obj\Debug\ToolBox.pdb

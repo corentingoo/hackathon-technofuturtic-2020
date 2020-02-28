@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DBConnection-Web.config Connection String" description="DBConnection Chaîne de connexion utilisée dans web.config par l’application pour accéder à la base de données." defaultValue="Data Source=MSI;Initial Catalog=cashDb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\workspace\\asp\.net\\API_CashMachine\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DBConnection']/@connectionString" />
+  </parameter>
+</parameters>

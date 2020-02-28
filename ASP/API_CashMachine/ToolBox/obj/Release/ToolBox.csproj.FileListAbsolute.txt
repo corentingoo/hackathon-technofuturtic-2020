@@ -1,0 +1,15 @@
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Release\ToolBox.dll.config
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Release\ToolBox.dll
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Release\ToolBox.pdb
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Release\Newtonsoft.Json.dll
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Release\System.Net.Http.Formatting.dll
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Release\System.Web.Http.dll
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Release\Newtonsoft.Json.xml
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Release\System.Net.Http.Formatting.xml
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Release\System.Web.Http.xml
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Release\fr\System.Net.Http.Formatting.resources.dll
+D:\workspace\asp.net\API_CashMachine\ToolBox\bin\Release\fr\System.Web.Http.resources.dll
+D:\workspace\asp.net\API_CashMachine\ToolBox\obj\Release\ToolBox.csprojAssemblyReference.cache
+D:\workspace\asp.net\API_CashMachine\ToolBox\obj\Release\ToolBox.csproj.CopyComplete
+D:\workspace\asp.net\API_CashMachine\ToolBox\obj\Release\ToolBox.dll
+D:\workspace\asp.net\API_CashMachine\ToolBox\obj\Release\ToolBox.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_CashMachine", "API_CashMachine.csproj", "{7F85E78A-86F3-4400-9BC2-EACF758807FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolBox", "ToolBox\ToolBox.csproj", "{C01DAA76-972A-49A2-8D67-5B5147C703A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F85E78A-86F3-4400-9BC2-EACF758807FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F85E78A-86F3-4400-9BC2-EACF758807FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F85E78A-86F3-4400-9BC2-EACF758807FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F85E78A-86F3-4400-9BC2-EACF758807FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C01DAA76-972A-49A2-8D67-5B5147C703A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01DAA76-972A-49A2-8D67-5B5147C703A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C01DAA76-972A-49A2-8D67-5B5147C703A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C01DAA76-972A-49A2-8D67-5B5147C703A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCB90175-F3E4-4C34-BD62-6B6D47D3D104}
+	EndGlobalSection
+EndGlobal

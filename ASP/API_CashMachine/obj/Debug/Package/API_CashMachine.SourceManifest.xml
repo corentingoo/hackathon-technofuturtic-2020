@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <DbDacFx path="D:\workspace\asp.net\API_CashMachine\obj\Debug\AutoScripts\DBConnection_IncrementalSchemaOnly.dacpac" dacpacAction="Deploy" />
+  <IisApp path="D:\workspace\asp.net\API_CashMachine\obj\Debug\Package\PackageTmp" />
+  <setAcl path="D:\workspace\asp.net\API_CashMachine\obj\Debug\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="D:\workspace\asp.net\API_CashMachine\obj\Debug\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

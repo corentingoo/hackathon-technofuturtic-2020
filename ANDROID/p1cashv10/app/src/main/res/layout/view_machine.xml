@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal">
+    <TextView
+        android:id="@+id/TVMachine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Machine x" />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/lv_machine_icon_full"
+        android:src="@drawable/ic_icone_machine_full_24dp"
+        android:visibility="invisible"
+        />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/lv_machine_icon_almost_full"
+        android:src="@drawable/ic_icone_machine_almost_full_24dp"
+        android:visibility="invisible"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/lv_machine_icon_almost_empty"
+        android:src="@drawable/ic_icone_machine_almost_empty_24dp"
+        android:visibility="invisible"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/lv_machine_icon_empty"
+        android:src="@drawable/ic_icone_machine_empty_24dp"
+        android:visibility="invisible"/>
+
+</LinearLayout>
